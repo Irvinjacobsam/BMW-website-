@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.nav-bar {
+    height: 4rem;
+    width: 100%;
+    padding-left: 3rem;
+    padding-right: 5rem;
+}
+.nav-item {
+    padding: 1rem;
+    font-size: 1.5rem;
+    color: gray;
+}
+.button1:hover {
+    transform: scale(1.1);
+}
+.button2:hover {
+    transform: scale(1.1);
+}
+.button3:hover {
+    transform: scale(1.1);
+}
+.heading {
+    font-size: 1.5rem;
+    margin-top:2rem ;
+    margin-left: 1.5rem;
+    margin-bottom: 2rem ;
+}
+.models {
+    padding: 2rem;
+}
+.models:hover {
+    transform: scale(1.1);
+}
+.series1 {
+    margin-left: 5rem;
+}
+.name1 {
+    margin-left: 5rem;
+    font-size: 3rem;
+}
+.series2 {
+    margin-left: 10rem;
+}
+.name2 {
+    margin-left: 10rem;
+    font-size: 3rem;
+}
+.series3 {
+    margin-left: 10rem;
+}
+.name3 {
+    margin-left: 10rem;
+    font-size: 3rem;
+}

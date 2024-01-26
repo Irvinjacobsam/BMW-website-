@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.nav-bar {
+    height: 4rem;
+    width: 100%;
+    position: absolute;
+    z-index: 2;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.nav-item {
+    padding: 1rem;
+    font-size: 1.5rem;
+    color: aliceblue;
+}
+
+.nav-item:hover {
+    transform: scale(1.1);
+}
+.button1:hover {
+    transform: scale(1.1);
+}
+.button2:hover {
+    transform: scale(1.1);
+}
+.button3:hover {
+    transform: scale(1.1);
+}
+video {
+    margin-top: 2rem;
+}
+
+.vid {
+    position: absolute;
+    z-index: 5;
+}
+
+.electrified {
+    padding: 5rem;
+}
+
+.offer {
+    padding-left: 5rem;
+}
+
+.know {
+    height: 3rem;
+    width: 10rem;
+    background-color: white;
+    margin-left: 40rem;
+}
+
+.know:hover {
+    border-width: 0.2rem;
+}
+
+.details {
+    height: 3rem;
+    width: 10rem;
+    background-color: white;
+    margin-left: 45rem;
+}
+
+.details:hover {
+    border-width: 0.2rem;
+}
+.footer {
+    background-color: rgb(235, 231, 231);
+    height: 20rem;
+}
+.footer1 {
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+.footer2 {
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+.footer3 {
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+.footer4 {
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+.footer-heading {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 2rem;
+}
+.footer-content {
+    margin-left: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.footer-content:hover {
+    transform: scale(1.05);
+}

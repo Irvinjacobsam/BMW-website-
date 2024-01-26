@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    /* background: url(../image/front1.jpg); */
+}
+
+.nav-bar {
+    height: 4rem;
+    width: 100%;
+    padding-left: 3rem;
+    padding-right: 5rem;
+}
+.nav-item {
+    padding: 1rem;
+    font-size: 1.5rem;
+    color: gray;
+}
+.button1:hover {
+    transform: scale(1.1);
+}
+.button2:hover {
+    transform: scale(1.1);
+}
+.button3:hover {
+    transform: scale(1.1);
+}
+.nav-item:hover {
+    transform: scale(1.1);
+}
+.h1 {
+    margin: 1.5rem;
+}
+.heading{
+    font-size: 1.5rem;
+    margin-top:2rem ;
+    margin-left: 1.5rem;
+}
+.series {
+    font-size: 1.5rem;
+}
+.models {
+    padding: 2rem;
+}
+.models:hover {
+    transform: scale(1.1);
+}
